@@ -42,7 +42,7 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 5em;
-  padding-bottom: 5em;
+  background-image: linear-gradient(to bottom);
 }
 
 .banner-content {
@@ -50,7 +50,6 @@ html {
   background-repeat: no-repeat;
   background-size: 64px;
   background-position: left top;
-  padding: 1em;
   color: #fff;
 }
 
