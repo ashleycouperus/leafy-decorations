@@ -6,6 +6,8 @@ html {
   background-color: #588477;
   background-image: url("../images/leaf-bg.svg");
   background-size: 64px auto;
+  border-top: 3px solid #2d5a4d;
+  border-bottom: 3px solid #2d5a4d;
 }
 
 .logo {
@@ -36,7 +38,7 @@ html {
 
 .banner {
   background-image: url("..images/banner.jpg");
-  background-size: auto;
+  background-size: 64px;
   background-repeat: no-repeat;
 }
 
